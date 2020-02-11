@@ -16,3 +16,4 @@ Run it inside a docker-compose file
 ...
 
 ```
+An example configuration file is provided
